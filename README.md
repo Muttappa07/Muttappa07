@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Muttappa! ✋
 
-<!--
-**Muttappa07/Muttappa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Aspiring Cloud Engineer
 
-Here are some ideas to get you started:
+☁️ Interested in Cloud Computing and Networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 👋 Hi, I'm Muttappa!
+- ☁️ I'm interested in Cloud Computing.
+- 🐧 Currently learning Linux and Computer Networking.
+- 💻 Practicing Data Structures and Algorithms.
+- 🚀 Working towards becoming a Cloud Engineer.
+
+## 🛠️ Languages
+
+- C
+- C++
+- SQL
+
+## ☁️ Technologies I'm Learning
+
+- Linux
+- Computer Networking
+- Cloud Computing
+
+## 🎯 Goals
+
+- Build practical cloud computing projects.
+- Improve my programming and problem-solving skills.
+- Learn cloud platforms and earn certifications.
+
+## 📫 Connect With Me
+
+- GitHub: [Visit my profile](https://github.com/Muttappa07)
+
+---
+⭐ Thanks for visiting my profile!
